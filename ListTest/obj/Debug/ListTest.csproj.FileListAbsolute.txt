@@ -1,0 +1,8 @@
+D:\myProject\ExamRepo\ExamProject\ListTest\bin\Debug\ListTest.dll
+D:\myProject\ExamRepo\ExamProject\ListTest\bin\Debug\ListTest.pdb
+D:\myProject\ExamRepo\ExamProject\ListTest\bin\Debug\ExamProject.exe
+D:\myProject\ExamRepo\ExamProject\ListTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\myProject\ExamRepo\ExamProject\ListTest\bin\Debug\ExamProject.pdb
+D:\myProject\ExamRepo\ExamProject\ListTest\obj\Debug\ListTest.csprojResolveAssemblyReference.cache
+D:\myProject\ExamRepo\ExamProject\ListTest\obj\Debug\ListTest.dll
+D:\myProject\ExamRepo\ExamProject\ListTest\obj\Debug\ListTest.pdb
